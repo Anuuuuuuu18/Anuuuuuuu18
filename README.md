@@ -8,10 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=Anuuuuuuu18&label=profile%20visits&color=d94f91&style=for-the-badge" alt="Profile visit counter">
 </p>
 
-<p align="center">
-  <img src="assets/pink-doll-portrait.png" alt="Pink doll portrait" width="420">
-</p>
-
 ## ✨ Featured projects
 
 <table>
