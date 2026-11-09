@@ -8,13 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=Anuuuuuuu18&label=profile%20visits&color=d94f91&style=for-the-badge" alt="Profile visit counter">
 </p>
 
-<table align="center">
-<tr>
-<td width="150" align="center"><img src="assets/cute-pink-doll.svg" alt="Cute pink doll illustration" width="120"></td>
-<td valign="middle"><h1>Hi, I'm Anu! 🎀</h1><p>I explore useful AI and data projects, from interactive analysis tools to computer-vision and healthcare analytics prototypes. I enjoy making complex ideas clear, practical, and easy to explore.</p></td>
-</tr>
-</table>
-
 ## ✨ Featured projects
 
 <table>
