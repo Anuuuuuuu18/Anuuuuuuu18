@@ -1,10 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
   <title id="title">Hey, you! Pink developer portfolio</title>
-  <desc id="desc">A soft pink raised-card banner for Anu's AI and data portfolio.</desc>
+  <desc id="desc">A soft pink portfolio banner with a pink doll portrait beside the greeting.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff5fa"/><stop offset="1" stop-color="#ed78a9"/></linearGradient>
     <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b83e79"/><stop offset="1" stop-color="#f08bb7"/></linearGradient>
     <filter id="shadow" x="-20%" y="-30%" width="140%" height="180%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#73234c" flood-opacity=".28"/></filter>
+    <clipPath id="portraitClip"><rect x="810" y="7" width="210" height="180" rx="22"/></clipPath>
   </defs>
   <rect width="1200" height="320" rx="34" fill="url(#bg)"/>
   <circle cx="1080" cy="48" r="115" fill="#fff" opacity=".3"/>
@@ -16,7 +17,8 @@
     <path d="M1 30Q1 1 30 1h980" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".52"/>
     <text x="52" y="95" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700">Hey, you! 👀</text>
     <text x="54" y="148" fill="#ffe8f2" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="500">AI • Data • Computer Vision</text>
-    <path d="m918 69 9-18 9 18 18 9-18 9-9 18-9-18-18-9z" fill="#fff" opacity=".76"/>
-    <path d="m985 134 5-10 5 10 10 5-10 5-5 10-5-10-10-5z" fill="#ffd9e9" opacity=".9"/>
+    <rect x="807" y="4" width="216" height="186" rx="25" fill="#fff" opacity=".92"/>
+    <image x="810" y="7" width="210" height="180" preserveAspectRatio="xMidYMid slice" clip-path="url(#portraitClip)" href="https://raw.githubusercontent.com/Anuuuuuuu18/Anuuuuuuu18/main/assets/pink-doll-portrait.png"/>
+    <rect x="810" y="7" width="210" height="180" rx="22" fill="none" stroke="#fff" stroke-width="4"/>
   </g>
 </svg>
