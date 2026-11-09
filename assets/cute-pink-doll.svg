@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="260" viewBox="0 0 240 260" role="img" aria-labelledby="title desc">
+  <title id="title">Cute pink doll for Anu's profile</title>
+  <desc id="desc">A cheerful illustrated doll with rosy cheeks, soft brown curls, and a pink bow and dress.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff4fa"/><stop offset="1" stop-color="#f7b5d2"/></linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#553344"/><stop offset="1" stop-color="#a65077"/></linearGradient>
+    <linearGradient id="dress" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f9a8ce"/><stop offset="1" stop-color="#d94f91"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="7" stdDeviation="6" flood-color="#8e315e" flood-opacity=".25"/></filter>
+  </defs>
+  <circle cx="120" cy="130" r="116" fill="url(#bg)"/>
+  <circle cx="38" cy="58" r="9" fill="#fff" opacity=".8"/><circle cx="201" cy="93" r="6" fill="#fff" opacity=".75"/><path d="m45 168 5-11 5 11 11 5-11 5-5 11-5-11-11-5z" fill="#fff" opacity=".8"/>
+  <g filter="url(#shadow)" stroke-linejoin="round">
+    <path d="M63 238c4-31 11-47 31-57h52c20 10 27 26 31 57z" fill="url(#dress)" stroke="#fff" stroke-width="4"/>
+    <path d="M77 207q43 26 86 0l9 31H68z" fill="#f7c2dc" opacity=".72"/>
+    <path d="M93 184v-16h54v16q-27 20-54 0" fill="#f1bd98"/>
+    <path d="M65 101q-6-55 43-67 60-14 73 48l-4 63q-4 39-31 55l-9-17-31 1-12 17q-35-20-35-60z" fill="url(#hair)"/>
+    <ellipse cx="120" cy="111" rx="48" ry="54" fill="#ffd9c4"/>
+    <path d="M72 111q4-50 48-51 36 1 48 29-30 1-42-20-20 25-54 23z" fill="url(#hair)"/>
+    <path d="M72 99q-17 35-1 74l18-2-3-67m78-4q16 33 1 69l-17-1 4-59" fill="url(#hair)"/>
+    <path d="M92 111q8-8 15 0m25 0q8-8 15 0" fill="none" stroke="#533747" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="101" cy="120" r="3.6" fill="#533747"/><circle cx="139" cy="120" r="3.6" fill="#533747"/>
+    <ellipse cx="92" cy="131" rx="8" ry="4" fill="#f49ab8" opacity=".65"/><ellipse cx="148" cy="131" rx="8" ry="4" fill="#f49ab8" opacity=".65"/>
+    <path d="M111 137q9 9 18 0" fill="none" stroke="#ba5876" stroke-width="3" stroke-linecap="round"/>
+    <path d="M99 54q-14-21-35-12 4 24 30 26m47-14q15-22 35-13-4 24-30 27" fill="#f05b9d" stroke="#fff" stroke-width="3"/>
+    <circle cx="120" cy="58" r="12" fill="#f28ab7" stroke="#fff" stroke-width="3"/>
+    <path d="M112 199q8 13 16 0m-43 39q-13 8-12 16m72-16q13 8 12 16" fill="none" stroke="#7d3958" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="120" y="254" text-anchor="middle" fill="#8e315e" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">ANU'S PINK CORNER</text>
+</svg>
