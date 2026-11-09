@@ -36,7 +36,7 @@ I’m Anu, a developer exploring practical AI and data projects. I enjoy turning
 
 ### 📊 AI Data Analyst Bot
 
-A Streamlit app for cleaning, exploring, charting, and reporting on datasets.
+A Streamlit app for cleaning, exploring, charting, comparing dataset snapshots, and generating reports.
 
 [Open project →](https://github.com/Anuuuuuuu18/ai-data-analyst-bot)
 
