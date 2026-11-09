@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D94F91&center=true&vCenter=true&width=520&lines=Building+with+Python+%F0%9F%8C%B8;Exploring+AI+%26+Data+%F0%9F%92%97;Learning+by+creating+%E2%9C%A8" alt="Typing animation: Building with Python, exploring AI and data, learning by creating">
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/anu-shree-488756238/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d94f91?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
   <a href="mailto:anushree1888@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-e982b1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anu"></a>
   <img src="https://komarev.com/ghpvc/?username=Anuuuuuuu18&label=profile%20visits&color=d94f91&style=for-the-badge" alt="Profile visit counter">
@@ -26,6 +30,12 @@ I’m Anu, a developer exploring practical AI and data projects. I enjoy turning
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-Analyze-c7659c?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
   <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Experiment-d94f91?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-Version%20control-e982b1?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+</p>
+
+## 🌷 Languages in my projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuuuuuuu18&layout=compact&langs_count=6&title_color=d94f91&text_color=8a5870&bg_color=fff7fb&border_color=f3c5dc" alt="Most used programming languages across public repositories">
 </p>
 
 ## ✨ Featured projects
@@ -104,7 +114,7 @@ A healthcare analytics case study and project presentation.
 ## 🌸 Contribution garden
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anuuuuuuu18/Anuuuuuuu18/output/github-contribution-grid-snake.svg" alt="Animated pink visualization of Anu's GitHub contributions" width="100%">
+  <img src="https://raw.githubusercontent.com/Anuuuuuuu18/Anuuuuuuu18/output/github-contribution-grid-snake.svg" alt="Animated visualization of GitHub contributions" width="100%">
 </p>
 
 <p align="center"><sub>Thanks for visiting — have a lovely day! 🎀</sub></p>
