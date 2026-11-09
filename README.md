@@ -45,6 +45,12 @@ I’m Anu, a developer exploring practical AI and data projects. I enjoy turning
   </a>
 </p>
 
+## 🌸 Contribution garden
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anuuuuuuu18/Anuuuuuuu18/output/github-contribution-grid-snake.svg" alt="Animated pink visualization of Anu's GitHub contributions" width="100%">
+</p>
+
 ## ✨ Featured projects
 
 <table>
