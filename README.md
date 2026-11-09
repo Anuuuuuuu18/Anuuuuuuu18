@@ -28,28 +28,7 @@ I’m Anu, a developer exploring practical AI and data projects. I enjoy turning
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-Version%20control-e982b1?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </p>
 
-## ✨ GitHub at a glance
-
-<p align="center">
-  <a href="https://github.com/Anuuuuuuu18">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuuuuuuu18&theme=default&title_color=d94f91&text_color=624455&bg_color=fff5fa&border_color=f4bad5&icon_color=e982b1&chart_color=d94f91" alt="Anu's GitHub statistics">
-  </a>
-  <a href="https://github.com/Anuuuuuuu18?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuuuuuuu18&theme=default&title_color=d94f91&text_color=624455&bg_color=fff5fa&border_color=f4bad5&icon_color=e982b1&chart_color=d94f91" alt="Languages in Anu's repositories">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Anuuuuuuu18">
-    <img src="https://streak-stats.demolab.com/?user=Anuuuuuuu18&theme=default&hide_border=true&background=fff5fa&ring=d94f91&fire=e982b1&currStreakLabel=d94f91&sideLabels=624455&currStreakNum=624455&sideNums=624455&dates=9b7a88" alt="Anu's GitHub contribution streak">
-  </a>
-</p>
-
-## 🌸 Contribution garden
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anuuuuuuu18/Anuuuuuuu18/output/github-contribution-grid-snake.svg" alt="Animated pink visualization of Anu's GitHub contributions" width="100%">
-</p>
+## ✨ Featured projects
 
 ## ✨ Featured projects
 
@@ -123,5 +102,11 @@ A healthcare analytics case study and project presentation.
 - [Bindu](https://github.com/Anuuuuuuu18/Bindu) — an upstream project fork.
 
 </details>
+
+## 🌸 Contribution garden
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anuuuuuuu18/Anuuuuuuu18/output/github-contribution-grid-snake.svg" alt="Animated pink visualization of Anu's GitHub contributions" width="100%">
+</p>
 
 <p align="center"><sub>Thanks for visiting — have a lovely day! 🎀</sub></p>
