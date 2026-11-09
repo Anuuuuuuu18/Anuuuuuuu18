@@ -23,12 +23,17 @@ I’m Anu, a developer exploring practical AI and data projects. I enjoy turning
 ## 🧁 My skills & tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,jupyter&theme=light&perline=4" alt="Python, Git, GitHub and Jupyter logos">
+  <a href="https://docs.python.org/3/" title="Python official documentation"><img src="https://skillicons.dev/icons?i=python&theme=light" height="52" alt="Python"></a>
+  <a href="https://dev.mysql.com/doc/" title="MySQL official documentation"><img src="https://skillicons.dev/icons?i=mysql&theme=light" height="52" alt="MySQL"></a>
+  <a href="https://git-scm.com/doc" title="Git official documentation"><img src="https://skillicons.dev/icons?i=git&theme=light" height="52" alt="Git"></a>
+  <a href="https://docs.github.com/" title="GitHub documentation"><img src="https://skillicons.dev/icons?i=github&theme=light" height="52" alt="GitHub"></a>
+  <a href="https://docs.jupyter.org/" title="Jupyter documentation"><img src="https://skillicons.dev/icons?i=jupyter&theme=light" height="52" alt="Jupyter"></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Streamlit-e982b1?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Pandas-d94f91?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <a href="https://docs.streamlit.io/" title="Streamlit documentation"><img src="https://img.shields.io/badge/Streamlit-e982b1?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
+  <a href="https://pandas.pydata.org/docs/" title="Pandas documentation"><img src="https://img.shields.io/badge/Pandas-d94f91?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
 </p>
+<p align="center"><sub>Tap any logo to visit its official documentation. 🌷</sub></p>
 
 ## 🌷 Languages in my projects
 
