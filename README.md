@@ -21,10 +21,6 @@
 I’m Anu, a developer exploring practical AI and data projects. I enjoy turning ideas into clear, approachable prototypes—from interactive data analysis to computer-vision concepts and healthcare analytics. I’m growing my skills in Python and building projects that are useful, thoughtful, and easy to understand.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="A playful animated cat typing on a keyboard">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=16&duration=2600&pause=900&color=D96A9F&center=true&vCenter=true&width=600&height=35&lines=Currently+exploring+Machine+Learning+%F0%9F%8C%B8;Learning+Hugging+Face+and+Transformers+%F0%9F%A4%97;Building+with+Python+and+data+%E2%9C%A8" alt="Currently exploring machine learning, Hugging Face, Transformers, Python and data">
 </p>
 
