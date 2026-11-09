@@ -32,10 +32,10 @@ I’m Anu, a developer exploring practical AI and data projects. I enjoy turning
 
 <p align="center">
   <a href="https://github.com/Anuuuuuuu18">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuuuuuuu18&theme=default&animation=fade&title_color=d94f91&text_color=624455&bg_color=fff5fa&border_color=f4bad5&icon_color=e982b1&chart_color=d94f91" alt="Anu's GitHub statistics">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anuuuuuuu18&theme=default&title_color=d94f91&text_color=624455&bg_color=fff5fa&border_color=f4bad5&icon_color=e982b1&chart_color=d94f91" alt="Anu's GitHub statistics">
   </a>
   <a href="https://github.com/Anuuuuuuu18?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuuuuuuu18&theme=default&animation=fade&title_color=d94f91&text_color=624455&bg_color=fff5fa&border_color=f4bad5&icon_color=e982b1&chart_color=d94f91" alt="Languages in Anu's repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anuuuuuuu18&theme=default&title_color=d94f91&text_color=624455&bg_color=fff5fa&border_color=f4bad5&icon_color=e982b1&chart_color=d94f91" alt="Languages in Anu's repositories">
   </a>
 </p>
 
