@@ -1,11 +1,15 @@
 <p align="center">
-  <img src="assets/profile-banner.svg" alt="Anu's pink AI and data portfolio banner" width="100%">
+  <img src="assets/profile-banner.svg" alt="Hey, you! Pink AI and data portfolio banner" width="100%">
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anu-shree-488756238/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d94f91?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
   <a href="mailto:anushree1888@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20me-e982b1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anu"></a>
   <img src="https://komarev.com/ghpvc/?username=Anuuuuuuu18&label=profile%20visits&color=d94f91&style=for-the-badge" alt="Profile visit counter">
+</p>
+
+<p align="center">
+  <img src="assets/pink-doll-portrait.png" alt="Pink doll portrait" width="420">
 </p>
 
 ## ✨ Featured projects
