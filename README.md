@@ -1,6 +1,20 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Hey, you! Pink AI and data portfolio banner" width="100%">
-</p>
+<table width="100%" border="0" cellpadding="12" bgcolor="#f9b7d4">
+<tr>
+<td>
+<table width="100%" border="0" cellpadding="18" bgcolor="#d94f91">
+<tr>
+<td width="68%" valign="middle">
+<h1>Hey, you! 👀</h1>
+<p>AI • Data • Computer Vision</p>
+</td>
+<td width="32%" align="center" valign="middle">
+<img src="assets/pink-doll-portrait.png" alt="Pink doll portrait" width="190">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anu-shree-488756238/"><img src="https://img.shields.io/badge/LinkedIn-Connect-d94f91?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
