@@ -30,8 +30,6 @@ I’m Anu, a developer exploring practical AI and data projects. I enjoy turning
 
 ## ✨ Featured projects
 
-## ✨ Featured projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
