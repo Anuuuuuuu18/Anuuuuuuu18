@@ -20,10 +20,6 @@
 
 I’m Anu, a developer exploring practical AI and data projects. I enjoy turning ideas into clear, approachable prototypes—from interactive data analysis to computer-vision concepts and healthcare analytics. I’m growing my skills in Python and building projects that are useful, thoughtful, and easy to understand.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=16&duration=2600&pause=900&color=D96A9F&center=true&vCenter=true&width=600&height=35&lines=Currently+exploring+Machine+Learning+%F0%9F%8C%B8;Learning+Hugging+Face+and+Transformers+%F0%9F%A4%97;Building+with+Python+and+data+%E2%9C%A8" alt="Currently exploring machine learning, Hugging Face, Transformers, Python and data">
-</p>
-
 ## 🧁 Skills & technologies
 
 ### 💻 Programming, data & development
@@ -57,8 +53,6 @@ I’m Anu, a developer exploring practical AI and data projects. I enjoy turning
   <a href="https://python.langchain.com/docs/concepts/rag/" title="Retrieval augmented generation concepts"><img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-e982b1?style=for-the-badge" alt="RAG"></a>
   <a href="https://huggingface.co/docs/transformers/index" title="Explore pretrained models and embeddings"><img src="https://img.shields.io/badge/Prompt%20Engineering%20%26%20AI%20Agents-Explore-c7659c?style=for-the-badge" alt="Prompt Engineering and AI Agents"></a>
 </p>
-<p align="center"><sub>Tap a logo or badge to explore its official documentation. 🌷</sub></p>
-
 ## ✨ Featured projects
 
 <table>
