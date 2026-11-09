@@ -21,11 +21,19 @@
 I’m Anu, a developer exploring practical AI and data projects. I enjoy turning ideas into clear, approachable prototypes—from interactive data analysis to computer-vision concepts and healthcare analytics. I’m growing my skills in Python and building projects that are useful, thoughtful, and easy to understand.
 
 <p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="170" alt="Cute animated cat typing on a keyboard">
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="A playful animated cat typing on a keyboard">
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=18&duration=2600&pause=900&color=C7659C&center=true&vCenter=true&width=620&height=35&lines=Currently+exploring+Machine+Learning;Learning+with+Hugging+Face+%F0%9F%A4%97;Building+with+Python+%26+Streamlit;One+project+at+a+time+%E2%9C%A8" alt="Currently exploring machine learning, Hugging Face, Python and Streamlit">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=16&duration=2600&pause=900&color=D96A9F&center=true&vCenter=true&width=600&height=35&lines=Currently+exploring+Machine+Learning+%F0%9F%8C%B8;Learning+Hugging+Face+and+Transformers+%F0%9F%A4%97;Building+with+Python+and+data+%E2%9C%A8" alt="Currently exploring machine learning, Hugging Face, Transformers, Python and data">
 </p>
 
 ## 🧁 Skills & technologies
@@ -147,3 +155,7 @@ A healthcare analytics case study and project presentation.
 </p>
 
 <p align="center"><sub>Thanks for visiting — have a lovely day! 🎀</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D94F91,100:F8BBD0&height=110&section=footer" width="100%" alt="Soft pink decorative wave footer">
+</p>
