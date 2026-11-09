@@ -1,15 +1,13 @@
 <p align="center">
-  <img src="assets/profile-banner.png" alt="Hey, you! Pink banner with the attached doll portrait" width="100%">
+  <img src="assets/profile-banner.png" alt="Pink profile banner" width="100%">
 </p>
 
-<h1 align="center">🌸 Anu | Developer &amp; Dreamer</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=30&duration=2800&pause=1200&color=D94F91&center=true&vCenter=true&width=650&height=65&lines=Anu+%7C+Developer+%26+Dreamer;Exploring+AI+%26+Data;Building+ideas+into+projects" alt="Anu | Developer & Dreamer — exploring AI and data, building ideas into projects">
+</p>
 
 <p align="center">
   <i>Curious about AI, data, and building things that make ideas easier to explore.</i>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=D94F91&center=true&vCenter=true&width=520&lines=Building+with+Python+%F0%9F%8C%B8;Exploring+AI+%26+Data+%F0%9F%92%97;Learning+by+creating+%E2%9C%A8" alt="Typing animation: Building with Python, exploring AI and data, learning by creating">
 </p>
 
 <p align="center">
@@ -22,14 +20,14 @@
 
 I’m Anu, a developer exploring practical AI and data projects. I enjoy turning ideas into clear, approachable prototypes—from interactive data analysis to computer-vision concepts and healthcare analytics. I’m growing my skills in Python and building projects that are useful, thoughtful, and easy to understand.
 
-## 🧁 Tech I use
+## 🧁 My skills & tools
 
 <p align="center">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-Explore-d94f91?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/Streamlit-Build-e982b1?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></a>
-  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-Analyze-c7659c?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"></a>
-  <a href="https://jupyter.org/"><img src="https://img.shields.io/badge/Jupyter-Experiment-d94f91?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-Version%20control-e982b1?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <img src="https://skillicons.dev/icons?i=python,git,github,jupyter&theme=light&perline=4" alt="Python, Git, GitHub and Jupyter logos">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-e982b1?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Pandas-d94f91?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
 
 ## 🌷 Languages in my projects
