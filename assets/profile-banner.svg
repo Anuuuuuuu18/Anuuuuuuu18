@@ -1,16 +1,32 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Anu — AI, data, and computer vision</title><desc id="desc">A light pink raised-card banner for Anu's developer portfolio.</desc>
+  <title id="title">Anu's pink developer portfolio</title><desc id="desc">A light pink raised-card banner for Anu's AI and data portfolio.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff5fa"/><stop offset="1" stop-color="#ed78a9"/></linearGradient>
     <linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b83e79"/><stop offset="1" stop-color="#f08bb7"/></linearGradient>
+    <linearGradient id="hair" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#553344"/><stop offset="1" stop-color="#a65077"/></linearGradient>
+    <linearGradient id="dress" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffc2dc"/><stop offset="1" stop-color="#d94f91"/></linearGradient>
     <filter id="shadow" x="-20%" y="-30%" width="140%" height="180%"><feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#73234c" flood-opacity=".28"/></filter>
   </defs>
   <rect width="1200" height="320" rx="34" fill="url(#bg)"/><circle cx="1080" cy="48" r="115" fill="#fff" opacity=".3"/><circle cx="78" cy="280" r="135" fill="#fff" opacity=".25"/>
   <g transform="translate(63 48)" filter="url(#shadow)">
     <rect x="18" y="18" width="1040" height="194" rx="30" fill="#8f1e58" opacity=".48"/><rect x="8" y="8" width="1040" height="194" rx="30" fill="#f9b7d4"/><rect width="1040" height="194" rx="30" fill="url(#card)"/>
     <path d="M1 30Q1 1 30 1h980" fill="none" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".52"/>
-    <text x="52" y="91" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="60" font-weight="700">Hi, I'm Anu ✨</text>
+    <text x="52" y="91" fill="#fff" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700">Anu's Pink Corner ✨</text>
     <text x="54" y="143" fill="#ffe8f2" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="500">AI • Data • Computer Vision</text>
-    <circle cx="958" cy="72" r="34" fill="#fff" opacity=".2"/><circle cx="990" cy="114" r="15" fill="#fff" opacity=".34"/><path d="M924 145l16-19 16 19 20-25 24 31" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".82"/>
+    <g transform="translate(840 11)">
+      <ellipse cx="104" cy="174" rx="80" ry="13" fill="#7d214e" opacity=".25"/>
+      <path d="M60 174q5-35 26-45h42q22 10 26 45z" fill="url(#dress)" stroke="#fff" stroke-width="3"/>
+      <path d="M52 134q-12-42 14-76 22-31 54-20 38 11 39 49l-9 50-17 13-10-16H85l-13 16z" fill="url(#hair)"/>
+      <ellipse cx="104" cy="91" rx="39" ry="43" fill="#ffd9c4"/>
+      <path d="M65 86q4-39 39-42 31 2 39 26-26 1-38-17-16 19-39 17zM70 87q-10 26 0 49l14-2-4-45m72-3q10 25 0 48l-14-1 4-42" fill="url(#hair)"/>
+      <path d="M84 91q6-6 12 0m17 0q6-6 12 0" fill="none" stroke="#533747" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="91" cy="98" r="2.8" fill="#533747"/><circle cx="119" cy="98" r="2.8" fill="#533747"/>
+      <ellipse cx="82" cy="108" rx="6" ry="3" fill="#f49ab8" opacity=".7"/><ellipse cx="126" cy="108" rx="6" ry="3" fill="#f49ab8" opacity=".7"/>
+      <path d="M98 112q6 7 12 0" fill="none" stroke="#ba5876" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M88 46q-10-17-28-10 3 18 25 21m39-12q11-18 28-11-3 18-25 22" fill="#f05b9d" stroke="#fff" stroke-width="2.5"/>
+      <circle cx="105" cy="48" r="9" fill="#f28ab7" stroke="#fff" stroke-width="2.5"/>
+      <path d="M83 174q-11 7-10 14m64-14q11 7 10 14" fill="none" stroke="#7d3958" stroke-width="4" stroke-linecap="round"/>
+    </g>
+    <path d="m965 45 6-13 6 13 13 6-13 6-6 13-6-13-13-6z" fill="#fff" opacity=".7"/>
   </g>
 </svg>
