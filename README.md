@@ -95,8 +95,8 @@ A healthcare analytics case study and project presentation.
 ## 💕 GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anuuuuuuu18&show_icons=true&hide_border=true&title_color=bb477b&icon_color=dc6f9e&text_color=5b4350&bg_color=fff5fa" alt="GitHub statistics" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuuuuuuu18&layout=compact&hide_border=true&title_color=bb477b&text_color=5b4350&bg_color=fff5fa" alt="Most-used languages" height="165">
+  <img src="https://img.shields.io/github/followers/Anuuuuuuu18?label=followers&style=for-the-badge&color=d94f91" alt="GitHub followers">
+  <img src="https://img.shields.io/github/repos/Anuuuuuuu18?label=public%20repositories&style=for-the-badge&color=e982b1" alt="Public repositories">
 </p>
 
 <p align="center"><sub>Thanks for visiting — have a lovely day! 🎀</sub></p>
